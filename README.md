@@ -1,3 +1,11 @@
+<!--
+    Oie! Vicky aqui! Fico feliz em ver
+    que você está explorando meu README.md
+    Pode copiar se quiser!
+    
+    Em retorno, vou adorar seu follow! Obrigada!
+    :)
+-->
 <p align="center" style="margin: 0; padding: 0; line-height: 1;">
   <a href="https://github.com/vickylnm">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=10000000000000&color=8D11FFFF&center=true&width=440&height=35&lines=Sou+a+Vicky!" alt="Typing SVG" /></a>
