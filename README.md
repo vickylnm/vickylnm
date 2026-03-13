@@ -11,7 +11,7 @@
 
 <p align="center" style="margin: 0; padding: 0; line-height: 1;">
   <a href="https://github.com/vickylnm">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&duration=1&pause=10000000000000&color=966fd6&center=true&width=440&height=35&lines=Sou+a+Vicky!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&duration=1&pause=10000000000000&color=4d0c83&center=true&width=440&height=35&lines=Sou+a+Vicky!" alt="Typing SVG" /></a>
 </p>
 <p align="center" style="margin: 0; padding: 0; line-height: 3;">
   <a href="https://github.com/vickylnm/readme-typing-svg">
