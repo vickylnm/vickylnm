@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&multiline=true&width=435&lines=%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4Vit%C3%B3ria+Mendes;%E3%85%A4;Bem+vindos+ao+come%C3%A7o+da+minha+jornada!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=7A1FF7&width=435&lines=%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4Vit%C3%B3ria+Mendes)](https://git.io/typing-svg)
