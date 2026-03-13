@@ -2,7 +2,6 @@
   <a href="https://github.com/vickylnm">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1&pause=10000000000000&color=7A1FF7&center=true&width=435&lines=Vit%C3%B3ria+Mendes" alt="Typing SVG" /></a>
 </p>
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/vickylnm/readme-typing-svg">
