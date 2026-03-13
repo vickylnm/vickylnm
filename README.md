@@ -5,7 +5,7 @@
 <p align="center">
   <!-- Legenda -->
   <a href="https://github.com/vickylnm/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Bem%20vindos%20ao%20meu%20perfil!;Estudo%20Engenharia%20de%20Software!;Obrigada%20por%20passar%20por%20aqui!&font=Fira%20Code&center=true&width=440&height=25&color=7A1FF7&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Bem%20vindos%20ao%20meu%20perfil!;Estudo%20Engenharia%20de%20Software!;Obrigada%20por%20passar%20por%20aqui!&font=Fira%20Code&center=true&width=440&height=15&color=7A1FF7&vCenter=true&pause=1000&size=22" /></a>
 
 
 
