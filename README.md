@@ -6,11 +6,8 @@
     Em retorno, vou adorar seu follow! Obrigada!
     :)
 -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8D11FFFF&height=120&section=header" alt="header"/> 
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Business Analyst"/>
-</a>
 
 <p align="center" style="margin: 0; padding: 0; line-height: 1;">
   <a href="https://github.com/vickylnm">
