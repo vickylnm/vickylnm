@@ -15,7 +15,7 @@
 </p>
 <p align="center" style="margin: 0; padding: 0; line-height: 1;">
   <a href="https://github.com/vickylnm/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Bem%20vindos%20ao%20meu%20perfil!;Estudo%20Engenharia%20de%20Software!;Obrigada%20por%20passar%20por%20aqui!&font=JetBrains+Mono&center=true&width=440&height=50&color=AD17BF&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Bem%20vindos%20ao%20meu%20perfil!;Estudo%20Engenharia%20de%20Software!;Obrigada%20pela%20visita!&font=JetBrains+Mono&center=true&width=440&height=50&color=AD17BF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=AD17BF&height=120&section=footer" alt="header"/>
 
