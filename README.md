@@ -6,7 +6,7 @@
     Em retorno, vou adorar seu follow! Obrigada!
     :)
 -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=966fd6&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AD17BF&height=120&section=header" alt="header"/> 
 
 
 <p align="center" style="margin: 0; padding: 0; line-height: 1;">
