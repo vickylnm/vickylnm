@@ -25,6 +25,12 @@
 
 </div>
 
+<p align="left">
+  <a href="https://github.com/vickylnm/estudando-java">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vickylnm&repo=estudando-java&theme=react&bg_color=1F222E&title_color=AD17BF&hide_border=true&icon_color=F8D866&show_icons=false" alt="estudando-java">
+  </a>
+</p>
+
       
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=AD17BF&height=120&section=footer" alt="header"/>
 
