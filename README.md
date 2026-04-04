@@ -26,7 +26,7 @@
 </div>
 
 <details open>
-  <summary>👩‍💻 Sobre mim</summary>
+  <summary><h2>👩‍💻 Sobre mim </h2></summary>
 
   Estou no primeiro semestre de Engenharia de Software,<br>
   sou iniciante em programaçã e estarei registrando<br>
