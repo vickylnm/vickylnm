@@ -25,7 +25,8 @@
 
 </div>
 
-aaaaaaaaaaaaaaaaaaaaa
+<div align="center">
+Estou no primeiro semestre de Engenharia de Software, sou iniciante em programação e estarei registrando meu progresso por aqui!
 
 <details open> 
  <summary><h2>📘 Meus repositórios </h2></summary>
