@@ -25,9 +25,14 @@
 
 </div>
 
-<div align="center" style="display: inline-block;">
-Estou no primeiro semestre de Engenharia de Software, sou iniciante em programação e estarei registrando meu progresso por aqui!
-</div>
+<details open>
+  <summary>👩‍💻 Sobre mim</summary>
+
+  <div align="center">
+    Estou no primeiro semestre de Engenharia de Software, sou iniciante em programação e estarei registrando meu progresso por aqui!
+  </div>
+
+</details>
     
 <details open> 
  <summary><h2>📘 Meus repositórios </h2></summary>
