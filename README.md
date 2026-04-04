@@ -25,7 +25,7 @@
 
 </div>
 
-<div align="center">
+<div align="center"style="display: inline-block;>
 Estou no primeiro semestre de Engenharia de Software, sou iniciante em programação e estarei registrando meu progresso por aqui!
 
 <details open> 
