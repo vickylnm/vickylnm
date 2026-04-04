@@ -25,9 +25,10 @@
 
 </div>
 
-<div align="center"style="display: inline-block;>
+<div align="center" style="display: inline-block;">
 Estou no primeiro semestre de Engenharia de Software, sou iniciante em programação e estarei registrando meu progresso por aqui!
-
+</div>
+    
 <details open> 
  <summary><h2>📘 Meus repositórios </h2></summary>
 <p align="left">
