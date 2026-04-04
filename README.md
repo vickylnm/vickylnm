@@ -8,11 +8,11 @@
 -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AD17BF&height=120&section=header" alt="header"/> 
 
-<p align="center" style="margin: 0; padding: 0; line-height: 1;">
+<p align="center" style="margin: 0; padding: 0; line-height: 0.5;">
   <a href="https://github.com/vickylnm">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=1&pause=10000000000000&color=AD17BF&center=true&width=440&height=20&lines=Sou+a+Vicky!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=1&pause=10000000000000&color=AD17BF&center=true&width=440&height=35&lines=Sou+a+Vicky!" alt="Typing SVG" /></a>
 </p>
-<p align="center" style="margin: 0; padding: 0; line-height: 1;">
+<p align="center" style="margin: 0; padding: 0; line-height: 0.5;">
   <a href="https://github.com/vickylnm/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Bem%20vindos%20ao%20meu%20perfil!;Obrigada%20pela%20visita!&font=JetBrains+Mono&center=true&width=440&height=50&color=AD17BF&vCenter=true&pause=1000&size=22" /></a>
 </p>
