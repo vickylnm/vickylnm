@@ -28,10 +28,8 @@
 <details open>
   <summary>👩‍💻 Sobre mim</summary>
 
-  Estou no primeiro semestre<br>
-  de Engenharia de Software,<br>
-  sou iniciante em programação<br>
-  e estarei registrando<br>
+  Estou no primeiro semestre de Engenharia de Software,<br>
+  sou iniciante em programaçã e estarei registrando<br>
   meu progresso por aqui!
 
 </details>
