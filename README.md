@@ -23,8 +23,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Engenharia de Software](https://img.shields.io/badge/Engenharia%20de%20Software-CC0000?style=for-the-badge&logo=bookstack&logoColor=white)
-![1º Semestre](https://img.shields.io/badge/1º%20Semestre-purple?style=for-the-badge)
 ![Iniciante](https://img.shields.io/badge/Nível-Iniciante-green?style=for-the-badge)
 
 
@@ -34,7 +32,7 @@
   <summary><h2>👩‍💻 Sobre mim </h2></summary>
 
   Estou no primeiro semestre de Engenharia de Software,<br>
-  sou iniciante em programaçã e estarei registrando<br>
+  sou iniciante em programação e estarei registrando<br>
   meu progresso por aqui!
 
 </details>
